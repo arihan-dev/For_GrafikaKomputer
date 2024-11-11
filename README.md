@@ -7,10 +7,11 @@
 | Kelas | TI-5MM |
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
 
-# UTS GRAFIKA KOMPUTER
+# FOR GRAFIKA KOMPUTER
 
 # SCREENSHOT PROGRAM
-![image](https://github.com/user-attachments/assets/fb721b12-001b-412c-a71f-1f4254b6091a)![image](https://github.com/user-attachments/assets/ace29444-a309-4fd5-ac11-da2f02edefb4)
+![image](https://github.com/user-attachments/assets/cfc77211-598a-44e1-8c74-b5776bee0a3a)
+
 
 
 
